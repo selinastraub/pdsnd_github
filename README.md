@@ -2,7 +2,7 @@
 08.11.2020
 
 ### Project Title
-Bikeshare
+Bikeshare Project (Udacity Nanodegree)
 
 ### Description
 In this project data provided by Motivate, a bike share system provider for many major cities in the United States, 
