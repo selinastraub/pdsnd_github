@@ -10,7 +10,7 @@ is used to uncover bike share usage patterns between three large cities: Chicago
 I used Python to create an interactive experience in the terminal, that gives back descriptive statistics for the locations 
 and time frame chosen by the user. 
 
-## Background
+### Background
 Bike Share Data Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. 
 Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. 
 This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. 
