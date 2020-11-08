@@ -10,6 +10,8 @@ is used to uncover bike share usage patterns between three large cities: Chicago
 I used Python to create an interactive experience in the terminal, that gives back descriptive statistics for the locations 
 and time frame chosen by the user. 
 
+
+### Dataset
 Randomly selected data for the first six months of 2017 are provided for all three cities. The data files contain the same core six columns:
 
 Start Time (e.g., 2017-01-01 00:07:57)
