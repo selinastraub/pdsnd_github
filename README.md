@@ -7,6 +7,8 @@ Bikeshare Project (Udacity Nanodegree)
 ### Description
 In this project data provided by Motivate, a bike share system provider for many major cities in the United States, 
 is used to uncover bike share usage patterns between three large cities: Chicago, New York City, and Washington, DC.
+I used Python to create an interactive experience in the terminal, that gives back descriptive statistics for the locations 
+and time frame chosen by the user. 
 
 ### Files used
 chicago.csv
