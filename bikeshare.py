@@ -3,10 +3,8 @@
 
 import time
 import pandas as pd
-import numpy as np
 import datetime
 import calendar
-import os
 
 CITY_DATA = {'chicago': 'data/chicago.csv',
              'new york': 'data/new_york_city.csv',
