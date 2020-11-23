@@ -1,12 +1,16 @@
+#!/usr/bin/python
+# -*- coding: <utf-8> -*-
+
 import time
 import pandas as pd
 import numpy as np
 import datetime
 import calendar
+import os
 
-CITY_DATA = {'chicago': 'chicago.csv',
-             'new york': 'new_york_city.csv',
-             'washington': 'washington.csv'}
+CITY_DATA = {'chicago': 'data/chicago.csv',
+             'new york': 'data/new_york_city.csv',
+             'washington': 'data/washington.csv'}
 
 CITIES = ['chicago', 'new york', 'washington']
 
@@ -72,6 +76,7 @@ def load_data(city, month, day):
     """
 
     # load data file into a dataframe
+    path_dir: str = r"C:\Users\selin_000\udacity-git-course\pdsnd_github\data"
     df = pd.read_csv(CITY_DATA[city])
 
     # convert the Start Time column to datetime
